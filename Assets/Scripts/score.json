@@ -7,7 +7,7 @@
 
 /*
 
-  int[] num = {1,2,3};
+  int[] num = {1,2,3}; change
   if data is come 
   console.WriteLine(num[0]); --1
 
